@@ -1,0 +1,45 @@
+<center><html>
+<style type="text/css">
+a {
+text-decoration:none;
+color:Red;
+display:block;
+font-size:30px;
+}
+
+</style>
+<head>
+<title></title>
+</head>
+<body bgcolor="#000000"><body text="white">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="author" content="Alan Simpson">
+    <meta name="description" content="Super simple responsive videos for your web site. Works with embedded videos as well as videos displayed by HTML5 video tags. Uses only a few lines of CSS3, no libraries or frameworks required. https://alansimpson.me/html_css/videos/">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Responsive Video</title>
+    <style>
+       iframe, video {
+            display: block;
+            width: 80%;
+            margin: 1em auto;
+            height: calc(.5625 * 80vw);
+            min-width: 320px;
+            /* min height is .5625 times min width */
+            min-height: 180px;
+            max-width: 1920px;
+            /* max height is .5625 times max width */
+            max-height: 1080px
+        }
+    </style>
+</head>
+<body>
+    <!-- HTML5 video tag -->
+    <video controls autoplay poster="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGwS7p_K4Ce2konGXogUPjPtIPMgQioiJsPw&usqp=CAU">
+        <source src="https://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51" type="video/mp4">
+    </video>
+   </body>
+</html>
