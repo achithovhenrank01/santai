@@ -749,6 +749,22 @@
                 {
                     "drm_id": "vision",
                     "referer": "https:\/\/www.visionplus.id",
+                    "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/7284b855\/28fc_r32.jpg",
+                    "name": "SPORTSTARS 3",
+                    "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/MNCSports3-HD\/sa_dash_vmx\/MNCSports3-HD.mpd",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
+                {
+                    "drm_id": "vision",
+                    "referer": "https:\/\/www.visionplus.id",
+                    "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/7284b855\/28fc_r32.jpg",
+                    "name": "SPORTSTARS 4",
+                    "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/Sportstar4\/sa_dash_vmx\/Sportstar4.mpd",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
+                {
+                    "drm_id": "vision",
+                    "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/aed3fc77\/ddf7_r32.jpg",
                     "name": "Soccer Channel",
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/soccerchannel-test\/sa_dash_vmx\/soccerchannel-test.mpd",
