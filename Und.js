@@ -922,10 +922,5 @@
             "drm_key": "https:\/\/mrpw.ptmnc01.verspective.net\/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz",
             "drm_type": "com.widevine.alpha"
         }
-        {
-            "drm_id": "dazn",
-            "drm_key": "82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0",
-            "drm_type": "com.clearkey.alpha"
-        }
     ]
 }
