@@ -15,7 +15,7 @@
                 {
                     "drm_id": "vision",
                     "referer": "https:\/\/www.dens.tv",
-                    "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/f0ec5a1a\/a884_r32.jpg",
+                    "logo_url": "https:\/\/i.ibb.co\/gmkpM80\/20240331-085144.jpg",
                     "name": "INDOSIAR",
                     "stream_url": "http:\/\/op-group1-swiftservesd-1.dens.tv\/s\/s04\/index.m3u8?app_type=web&userid=lite&chname=Indosiar",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
@@ -23,7 +23,7 @@
                 {
                     "drm_id": "vision",
                     "referer": "https:\/\/www.dens.tv",
-                    "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/f0ec5a1a\/a884_r32.jpg",
+                    "logo_url": "https:\/\/i.ibb.co\/cQLnjRP\/20240331-085221.jpg",
                     "name": "SCTV",
                     "stream_url": "http:\/\/op-group1-swiftservehd-1.dens.tv\/s\/s03\/index.m3u8?app_type=web&userid=lite&chname=SCTV",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
