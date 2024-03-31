@@ -780,9 +780,8 @@
                 },
                 {
                     "drm_id": "0001",
-                    "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/i.ibb.co\/5R5pzC2\/20240331-082701.jpg",
-                    "name": "DAZN",
+                    "name": "Dazn",
                     "stream_url": "https:\/\/dcf-ak-livedazn.akamaized.net\/dashdrm\/dazn-linear-054\/stream.mpd",
                     "user_agent": "ExoPlayerLib\/2.13.2"
                 },
