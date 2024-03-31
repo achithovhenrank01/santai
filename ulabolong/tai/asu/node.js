@@ -778,6 +778,14 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
+                    "drm_id": "dazn",
+                    "referer": "https:\/\/livedazn.akamaized.net",
+                    "logo_url": "https:\/\/i.ibb.co\/5R5pzC2\/20240331-082701.jpg",
+                    "name": "SPORTSTARS 4",
+                    "stream_url": "https:\/\/dcf-ak-livedazn.akamaized.net\/dashdrm\/dazn-linear-054\/stream.mpd",
+                    "user_agent": "ExoPlayerLib"
+                },
+                {
                     "drm_id": "vision",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/aed3fc77\/ddf7_r32.jpg",
@@ -920,6 +928,11 @@
             "drm_id": "vision",
             "drm_key": "https:\/\/mrpw.ptmnc01.verspective.net\/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz",
             "drm_type": "com.widevine.alpha"
+        },
+        {
+            "drm_id": "dazn",
+            "drm_key": "82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0",
+            "drm_type": "com.clearkey.alpha"
         }
     ]
 }
