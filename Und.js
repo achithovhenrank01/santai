@@ -779,7 +779,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "0001",
+                    "drm_id": "dazn",
                     "logo_url": "https:\/\/i.ibb.co\/5R5pzC2\/20240331-082701.jpg",
                     "name": "Dazn",
                     "stream_url": "https:\/\/dcf-ak-livedazn.akamaized.net\/dashdrm\/dazn-linear-054\/stream.mpd",
@@ -930,9 +930,9 @@
             "drm_type": "com.widevine.alpha"
         }
         {
-            "drm_id": "0001",
+            "drm_id": "dazn",
             "drm_key": "82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0",
-            "drm_type": "clearkey"
+            "drm_type": "com.clearkey.alpha"
         }
     ]
 }
