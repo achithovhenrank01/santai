@@ -779,13 +779,6 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "dazn",
-                    "logo_url": "https:\/\/i.ibb.co\/5R5pzC2\/20240331-082701.jpg",
-                    "name": "Dazn",
-                    "stream_url": "https:\/\/dcf-ak-livedazn.akamaized.net\/dashdrm\/dazn-linear-054\/stream.mpd",
-                    "user_agent": "ExoPlayerLib\/2.13.2"
-                },
-                {
                     "drm_id": "vision",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/aed3fc77\/ddf7_r32.jpg",
