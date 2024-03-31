@@ -750,7 +750,7 @@
                     "drm_id": "vision",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/c350a134\/2fc0_r32.jpg",
-                    "name": "Sportstars",
+                    "name": "SPORTSTARS",
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/MNCSports-HD\/sa_dash_vmx\/MNCSports-HD.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
@@ -758,7 +758,7 @@
                     "drm_id": "vision",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/7284b855\/28fc_r32.jpg",
-                    "name": "Sportstars 2",
+                    "name": "SPORTSTARS 2",
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/MNCSports2-HD\/sa_dash_vmx\/MNCSports2-HD.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
@@ -766,7 +766,7 @@
                     "drm_id": "vision",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/i.ibb.co\/Vq3G8GX\/20240331-082620.jpg",
-                    "name": "Sportstars 3",
+                    "name": "SPORTSTARS 3",
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/MNCSports3-HD\/sa_dash_vmx\/MNCSports3-HD.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
@@ -774,7 +774,7 @@
                     "drm_id": "vision",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/i.ibb.co\/5R5pzC2\/20240331-082701.jpg",
-                    "name": "Sportstars 4",
+                    "name": "SPORTSTARS 4",
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/Sportstar4\/sa_dash_vmx\/Sportstar4.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
