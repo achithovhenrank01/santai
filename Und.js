@@ -750,7 +750,7 @@
                     "drm_id": "vision",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/c350a134\/2fc0_r32.jpg",
-                    "name": "SPORTSTARS",
+                    "name": "Sportstars",
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/MNCSports-HD\/sa_dash_vmx\/MNCSports-HD.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
@@ -758,7 +758,7 @@
                     "drm_id": "vision",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/7284b855\/28fc_r32.jpg",
-                    "name": "SPORTSTARS 2",
+                    "name": "Sportstars 2",
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/MNCSports2-HD\/sa_dash_vmx\/MNCSports2-HD.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
@@ -766,7 +766,7 @@
                     "drm_id": "vision",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/i.ibb.co\/Vq3G8GX\/20240331-082620.jpg",
-                    "name": "SPORTSTARS 3",
+                    "name": "Sportstars 3",
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/MNCSports3-HD\/sa_dash_vmx\/MNCSports3-HD.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
@@ -774,9 +774,17 @@
                     "drm_id": "vision",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/i.ibb.co\/5R5pzC2\/20240331-082701.jpg",
-                    "name": "SPORTSTARS 4",
+                    "name": "Sportstars 4",
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/Sportstar4\/sa_dash_vmx\/Sportstar4.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
+                {
+                    "drm_id": "0001",
+                    "referer": "https:\/\/www.visionplus.id",
+                    "logo_url": "https:\/\/i.ibb.co\/5R5pzC2\/20240331-082701.jpg",
+                    "name": "DAZN",
+                    "stream_url": "https:\/\/dcf-ak-livedazn.akamaized.net\/dashdrm\/dazn-linear-054\/stream.mpd",
+                    "user_agent": "ExoPlayerLib/2.13.2"
                 },
                 {
                     "drm_id": "vision",
@@ -921,6 +929,11 @@
             "drm_id": "vision",
             "drm_key": "https:\/\/mrpw.ptmnc01.verspective.net\/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz",
             "drm_type": "com.widevine.alpha"
+        }
+        {
+            "drm_id": "0001",
+            "drm_key": "82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0",
+            "drm_type": "clearkey"
         }
     ]
 }
