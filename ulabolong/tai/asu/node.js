@@ -781,7 +781,7 @@
                 {
                     "drm_id": "dazn",
                     "referer": "https:\/\/livedazn.akamaized.net",
-                    "logo_url": "https:\/\/i.ibb.co\/5R5pzC2\/20240331-082701.jpg",
+                    "logo_url": "https:\/\/i.ibb.co/G5RdXJx\/20240427-165359.jpg",
                     "name": "Dazn Eleven 1",
                     "stream_url": "https:\/\/dcf-ak-livedazn.akamaized.net\/dashdrm\/dazn-linear-054\/stream.mpd",
                     "user_agent": "ExoPlayerLib"
@@ -789,7 +789,7 @@
                 {
                     "drm_id": "dazn",
                     "referer": "https:\/\/livedazn.akamaized.net",
-                    "logo_url": "https:\/\/i.ibb.co\/5R5pzC2\/20240331-082701.jpg",
+                    "logo_url": "https:\/\/i.ibb.co/G5RdXJx\/20240427-165359.jpg",
                     "name": "Dazn Eleven 2",
                     "stream_url": "https:\/\/dcf-ak-livedazn.akamaized.net\/dashdrm\/dazn-linear-055\/stream.mpd",
                     "user_agent": "ExoPlayerLib"
@@ -797,7 +797,7 @@
                 {
                     "drm_id": "dazn",
                     "referer": "https:\/\/livedazn.akamaized.net",
-                    "logo_url": "https:\/\/i.ibb.co\/5R5pzC2\/20240331-082701.jpg",
+                    "logo_url": "https:\/\/i.ibb.co/G5RdXJx\/20240427-165359.jpg",
                     "name": "Dazn Eleven 3",
                     "stream_url": "https:\/\/dcf-ak-livedazn.akamaized.net\/dashdrm\/dazn-linear-056\/stream.mpd",
                     "user_agent": "ExoPlayerLib"
@@ -805,7 +805,7 @@
                 {
                     "drm_id": "dazn",
                     "referer": "https:\/\/livedazn.akamaized.net",
-                    "logo_url": "https:\/\/i.ibb.co\/5R5pzC2\/20240331-082701.jpg",
+                    "logo_url": "https:\/\/i.ibb.co/G5RdXJx\/20240427-165359.jpg",
                     "name": "Dazn Eleven 4",
                     "stream_url": "https:\/\/dcf-ak-livedazn.akamaized.net\/dashdrm\/dazn-linear-057\/stream.mpd",
                     "user_agent": "ExoPlayerLib"
@@ -813,7 +813,7 @@
                 {
                     "drm_id": "dazn",
                     "referer": "https:\/\/livedazn.akamaized.net",
-                    "logo_url": "https:\/\/i.ibb.co\/5R5pzC2\/20240331-082701.jpg",
+                    "logo_url": "https:\/\/i.ibb.co/G5RdXJx\/20240427-165359.jpg",
                     "name": "Dazn Eleven 5",
                     "stream_url": "https:\/\/dcf-ak-livedazn.akamaized.net\/dashdrm\/dazn-linear-058\/stream.mpd",
                     "user_agent": "ExoPlayerLib"
@@ -821,7 +821,7 @@
                 {
                     "drm_id": "dazn",
                     "referer": "https:\/\/livedazn.akamaized.net",
-                    "logo_url": "https:\/\/i.ibb.co\/5R5pzC2\/20240331-082701.jpg",
+                    "logo_url": "https:\/\/i.ibb.co/G5RdXJx\/20240427-165359.jpg",
                     "name": "Dazn Eleven 6",
                     "stream_url": "https:\/\/dcf-ak-livedazn.akamaized.net\/dashdrm\/dazn-linear-059\/stream.mpd",
                     "user_agent": "ExoPlayerLib"
