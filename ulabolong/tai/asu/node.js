@@ -1307,7 +1307,7 @@
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/9e11438e\/f5ad_r32.jpg",
                     "name": "SPOTV",
-                    "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/SPOTV-HD\/sa_dash_vmx\/SPOTV-HD.mpd",
+                    "stream_url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/SPOTV-HD\/sa_dash_vmx\/SPOTV-HD.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
@@ -1315,7 +1315,7 @@
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/9c1465ab\/79a6_r32.jpg",
                     "name": "SPOTV 2",
-                    "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/SPOTV2-HD\/sa_dash_vmx\/SPOTV2-HD.mpd",
+                    "stream_url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/SPOTV2-HD\/sa_dash_vmx\/SPOTV2-HD.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
@@ -1323,7 +1323,7 @@
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/c350a134\/2fc0_r32.jpg",
                     "name": "SPORTSTARS",
-                    "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/MNCSports-HD\/sa_dash_vmx\/MNCSports-HD.mpd",
+                    "stream_url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/MNCSports-HD\/sa_dash_vmx\/MNCSports-HD.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
@@ -1331,7 +1331,7 @@
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/7284b855\/28fc_r32.jpg",
                     "name": "SPORTSTARS 2",
-                    "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/MNCSports2-HD\/sa_dash_vmx\/MNCSports2-HD.mpd",
+                    "stream_url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/MNCSports2-HD\/sa_dash_vmx\/MNCSports2-HD.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
@@ -1339,7 +1339,7 @@
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/i.ibb.co\/Vq3G8GX\/20240331-082620.jpg",
                     "name": "SPORTSTARS 3",
-                    "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/MNCSports3-HD\/sa_dash_vmx\/MNCSports3-HD.mpd",
+                    "stream_url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/MNCSports3-HD\/sa_dash_vmx\/MNCSports3-HD.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
@@ -1347,7 +1347,7 @@
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/i.ibb.co\/5R5pzC2\/20240331-082701.jpg",
                     "name": "SPORTSTARS 4",
-                    "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/Sportstar4\/sa_dash_vmx\/Sportstar4.mpd",
+                    "stream_url": "https:\/\/melon-live-cdn.mncnow.id\/live\/eds\/Sportstar4\/sa_dash_vmx\/Sportstar4.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
