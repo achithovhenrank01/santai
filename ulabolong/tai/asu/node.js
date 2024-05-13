@@ -1,3 +1,423 @@
+#EXTINF:-1 tvg-id="" tvg-name="Branquinha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0sC0TK6qZzkRiuqndJSZlbBbO2.jpg" group-title="Filmes | Drama",Branquinha
+http://dns.maxptv.net:2052/movie/C383/121341/23005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad: El Camino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4Il6gsDrOvrW5vi1ndTDR98UmS.jpg" group-title="Filmes | Drama",Breaking Bad: El Camino
+http://dns.maxptv.net:2052/movie/C383/121341/21793.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brian Banks: Um Sonho Interrompido" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/debZGNmAjeXat4iLbRmmakXiFO7.jpg" group-title="Filmes | Drama",Brian Banks: Um Sonho Interrompido
+http://dns.maxptv.net:2052/movie/C383/121341/21818.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brightburn - Filho das Trevas " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Eu0GvET9ZihUJL5L0E9lgDQYzJ.jpg" group-title="Filmes | Terror",Brightburn - Filho das Trevas 
+http://dns.maxptv.net:2052/movie/C383/121341/3699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brilho Eterno de uma Mente sem Lembrancas (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/huwNCvLZMET25n6QuOG7e1VwHss.jpg" group-title="Filmes | Ficcao Cientifica",Brilho Eterno de uma Mente sem Lembrancas (2004)
+http://dns.maxptv.net:2052/movie/C383/121341/19836.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brinquedo Assassino (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWyPivHZD7M3itErgedllY2Vfu8.jpg" group-title="Filmes | Terror",Brinquedo Assassino (2019)
+http://dns.maxptv.net:2052/movie/C383/121341/3326.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bronx" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSpm2mMbkd0hLTRWBz0zolnLAyK.jpg" group-title="Filmes | Suspense ",Bronx
+http://dns.maxptv.net:2052/movie/C383/121341/21674.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brooklyn - Sem Pai Nem Mae" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ph6BDYj1EK7U8Bs7WmRzr7iRyem.jpg" group-title="Filmes | Drama",Brooklyn - Sem Pai Nem Mae
+http://dns.maxptv.net:2052/movie/C383/121341/5087.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bumblebee" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2IZcVw0tclP7UOusTVtI5J6rmx.jpg" group-title="Filmes | Acao",Bumblebee
+http://dns.maxptv.net:2052/movie/C383/121341/3241.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Busca Implacavel " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYwZKC2sNcwyA8EazMSwHnHUn53.jpg" group-title="Filmes | Acao",Busca Implacavel 
+http://dns.maxptv.net:2052/movie/C383/121341/2332.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Busca Implacavel 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/T8BSCqbbPZ5VM3rFbj4UqdcLv7.jpg" group-title="Filmes | Acao",Busca Implacavel 2
+http://dns.maxptv.net:2052/movie/C383/121341/2333.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Busca Implacavel 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HLQHhBlbXqnKvL5xLKHh8M9O9K.jpg" group-title="Filmes | Acao",Busca Implacavel 3
+http://dns.maxptv.net:2052/movie/C383/121341/2334.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cabana da Possessao" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/byNUpSJROMwBetra4bLaq0Yffe4.jpg" group-title="Filmes | Terror",Cabana da Possessao
+http://dns.maxptv.net:2052/movie/C383/121341/21913.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cabras da Peste" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bpW9lrpPGV9FeIk1AjxnhUY6g58.jpg" group-title="Filmes | Nacionais",Cabras da Peste
+http://dns.maxptv.net:2052/movie/C383/121341/24153.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cada Um na Sua Casa (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qUIXx88HCtR111BRvnfQ0nq3U2.jpg" group-title="Filmes | Animacao",Cada Um na Sua Casa (2015)
+http://dns.maxptv.net:2052/movie/C383/121341/32172.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cadaver (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jbYvBVXbNW3eVZqKNB4FxMpSvci.jpg" group-title="Filmes | Drama",Cadaver (2020)
+http://dns.maxptv.net:2052/movie/C383/121341/22210.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caixa De Passaros :  Bird Box " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/akAO6r0ZuPB98VwQsN0SGIkE4z.jpg" group-title="Filmes | Suspense ",Caixa De Passaros :  Bird Box 
+http://dns.maxptv.net:2052/movie/C383/121341/3322.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Calmaria (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3DVBrlCv4wp1tibgWhxZ5bLmsz.jpg" group-title="Filmes | Suspense ",Calmaria (2019)
+http://dns.maxptv.net:2052/movie/C383/121341/3076.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caminhando nas Nuvens (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDNXGaCWqlJ5OGEsVzmpRX29uT5.jpg" group-title="Filmes | Romance",Caminhando nas Nuvens (1995)
+http://dns.maxptv.net:2052/movie/C383/121341/32176.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caminhos da Floresta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lV9VadnnXvv8qxoHkT9XWwGesQw.jpg" group-title="Filmes | Disney +",Caminhos da Floresta
+http://dns.maxptv.net:2052/movie/C383/121341/22185.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Campo do Medo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wG0tORn6XqSwjN2tBAZJrFTh7n0.jpg" group-title="Filmes | Terror",Campo do Medo
+http://dns.maxptv.net:2052/movie/C383/121341/3621.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Canguru Jack (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3z4tNgPXb03JI87teNWQWbEZe0d.jpg" group-title="Filmes | Comedia",Canguru Jack (2003)
+http://dns.maxptv.net:2052/movie/C383/121341/32847.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Canvas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/43KcPNPNi3KTpOTYghmYYm53RZX.jpg" group-title="Filmes | Animacao",Canvas
+http://dns.maxptv.net:2052/movie/C383/121341/21915.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Capital Humano" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7357OJlUUKs936Ur6HfQ4vvMMJ.jpg" group-title="Filmes | Drama",Capital Humano
+http://dns.maxptv.net:2052/movie/C383/121341/20907.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Capita Marvel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVgLHgnsO46oSHJy5I4ekhqtoYv.jpg" group-title="Filmes | Coleção Universo Marvel",Capita Marvel
+http://dns.maxptv.net:2052/movie/C383/121341/3077.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Capitao America - O Primeiro Vingador - 2011" tvg-logo="http://srv.maxptv.net:8080/images/6ab25257a320d8285cf01f825afa601b.jpg" group-title="Filmes | Coleção Universo Marvel",Capitao America - O Primeiro Vingador - 2011
+http://dns.maxptv.net:2052/movie/C383/121341/2296.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Capitao America 2: O Soldado Invernal (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7lk0NvgL1ikOYElr5KdnyGnEui9.jpg" group-title="Filmes | Coleção Universo Marvel",Capitao America 2: O Soldado Invernal (2014)
+http://dns.maxptv.net:2052/movie/C383/121341/2294.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Capitao America: Guerra Civil - 2016" tvg-logo="http://srv.maxptv.net:8080/images/3a37be6a746649b5955658a39eb6cddf.jpg" group-title="Filmes | Coleção Universo Marvel",Capitao America: Guerra Civil - 2016
+http://dns.maxptv.net:2052/movie/C383/121341/2295.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Capitao Dentes de Sabre e o Diamante Magico" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mhxWyLscNxa2cSIkr3OzCA0QKKV.jpg" group-title="Filmes | Animacao",Capitao Dentes de Sabre e o Diamante Magico
+http://dns.maxptv.net:2052/movie/C383/121341/8795.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Capitao Fantastico" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t4UH0AJql4paQMq4Dlg1gk2tqhk.jpg" group-title="Filmes | Romance",Capitao Fantastico
+http://dns.maxptv.net:2052/movie/C383/121341/21759.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carcereiros - O Filme" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mBY8sQjkc8qDYcUtS8GhlediHHz.jpg" group-title="Filmes | Nacionais",Carcereiros - O Filme
+http://dns.maxptv.net:2052/movie/C383/121341/8104.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carga Explosiva" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VfuE1wgsL9jIrmuI4AF6zEnDbb.jpg" group-title="Filmes | Acao",Carga Explosiva
+http://dns.maxptv.net:2052/movie/C383/121341/2097.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carga Explosiva 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNMJ8d5ZUTFxwP00DqxhqczB8z.jpg" group-title="Filmes | Acao",Carga Explosiva 2
+http://dns.maxptv.net:2052/movie/C383/121341/2098.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carga Explosiva 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hC4lRSuZA29l4NbmQ8sdvkpRkO5.jpg" group-title="Filmes | Acao",Carga Explosiva 3
+http://dns.maxptv.net:2052/movie/C383/121341/2099.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carga Explosiva: O Legado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iti0ub1R6JBCfwJarLktNL47HC.jpg" group-title="Filmes | Acao",Carga Explosiva: O Legado
+http://dns.maxptv.net:2052/movie/C383/121341/20928.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cargo (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cdPSUck4tBRvRu6DFk6XciDrssn.jpg" group-title="Filmes | Drama",Cargo (2017)
+http://dns.maxptv.net:2052/movie/C383/121341/21812.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carrie: A Estranha (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f60bJjQ6FUfxr0msrA1aMrwa9aV.jpg" group-title="Filmes | Terror",Carrie: A Estranha (2013)
+http://dns.maxptv.net:2052/movie/C383/121341/3622.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carros 3 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lVPFdORefTKXKFiSktrXbiFDNAK.jpg" group-title="Filmes | Animacao",Carros 3 (2017)
+http://dns.maxptv.net:2052/movie/C383/121341/21855.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cartas Para Quem Ficou" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/40WWr3PqtuVE0gwguSs4orc39P4.jpg" group-title="Filmes | Drama",Cartas Para Quem Ficou
+http://dns.maxptv.net:2052/movie/C383/121341/21813.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cartoes de Natal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7flqAGmYvZArxgNNfD3HNJ4Yur1.jpg" group-title="Filmes | Romance",Cartoes de Natal
+http://dns.maxptv.net:2052/movie/C383/121341/23643.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casa Grande" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDH0jgLQjnMye2klApFrfA8AIe1.jpg" group-title="Filmes | Nacionais",Casa Grande
+http://dns.maxptv.net:2052/movie/C383/121341/25408.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casal Improvavel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pbGJQXK0NEYZmUmjdDVQRrufOle.jpg" group-title="Filmes | Comedia",Casal Improvavel
+http://dns.maxptv.net:2052/movie/C383/121341/11816.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casamento de Natal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RdfCZj17K7sUq5SaXZ6LPfs5io.jpg" group-title="Filmes | Romance",Casamento de Natal
+http://dns.maxptv.net:2052/movie/C383/121341/23645.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casamento Sangrento" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hMKybjnpdweAsdngvXMEVKPOzXp.jpg" group-title="Filmes | Terror",Casamento Sangrento
+http://dns.maxptv.net:2052/movie/C383/121341/4750.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cats" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5XIZDh3n6BZAy00PqXpK1D16tZg.jpg" group-title="Filmes | Fantasia",Cats
+http://dns.maxptv.net:2052/movie/C383/121341/13076.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cazuza: O Tempo Nao Para" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Gornwn6Udc4AJCqYKYrZ2Mx8tb.jpg" group-title="Filmes | Nacionais",Cazuza: O Tempo Nao Para
+http://dns.maxptv.net:2052/movie/C383/121341/25409.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caca-Fantasmas (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k94VAAXYDxRdVEGlZ3uDQtlsVTr.jpg" group-title="Filmes | Comedia",Caca-Fantasmas (2016)
+http://dns.maxptv.net:2052/movie/C383/121341/22237.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cemiterio Maldito 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/F66gh3HxLLHIsaxvH1zJSgPAsf.jpg" group-title="Filmes | Terror",Cemiterio Maldito 2019
+http://dns.maxptv.net:2052/movie/C383/121341/3078.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Centro de Trauma" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p1WwFPliT9jG63YlEz8E5v3fsGQ.jpg" group-title="Filmes | Acao",Centro de Trauma
+http://dns.maxptv.net:2052/movie/C383/121341/3079.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chamas da Vinganca (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvEaP2L1xCAeDqW8jBCBG4VvvvJ.jpg" group-title="Filmes | Acao",Chamas da Vinganca (2004)
+http://dns.maxptv.net:2052/movie/C383/121341/6466.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cherry (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1rvWXeGUi3YRqeSZOVuEWvzxQVG.jpg" group-title="Filmes | Comedia",Cherry (2010)
+http://dns.maxptv.net:2052/movie/C383/121341/24982.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cherry - Inocencia Perdida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbSsR0IfnxdXZqfRMpH2PgLAbPV.jpg" group-title="Filmes | Drama",Cherry - Inocencia Perdida
+http://dns.maxptv.net:2052/movie/C383/121341/23267.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chorao: Marginal Alado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gogfKsMhf4q8iOO8awqi9YWkt4g.jpg" group-title="Filmes | Documentarios",Chorao: Marginal Alado
+http://dns.maxptv.net:2052/movie/C383/121341/25610.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cidade Implacavel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9702nIZf5EVxS3FrzycamQUlSjw.jpg" group-title="Filmes | Acao",Cidade Implacavel
+http://dns.maxptv.net:2052/movie/C383/121341/21787.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cidade de Gelo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CrzXk949k1aoest4JSg7Nepe6k.jpg" group-title="Filmes | Aventura",Cidade de Gelo
+http://dns.maxptv.net:2052/movie/C383/121341/33358.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cidade do Crime (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gOFYkLI263PffFdp8TtXxI7JiF2.jpg" group-title="Filmes | Acao",Cidade do Crime (2017)
+http://dns.maxptv.net:2052/movie/C383/121341/13106.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cidade Implacavel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9702nIZf5EVxS3FrzycamQUlSjw.jpg" group-title="Filmes | Acao",Cidade Implacavel
+http://dns.maxptv.net:2052/movie/C383/121341/32139.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cinderela (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DsfRsCxrhkHQHGLeY9m8oi9q46.jpg" group-title="Filmes | Disney +",Cinderela (2015)
+http://dns.maxptv.net:2052/movie/C383/121341/22244.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cine Holliudy (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rvTLvv9hxJEcdLfbhOWtZP7swkh.jpg" group-title="Filmes | Comedia",Cine Holliudy (2013)
+http://dns.maxptv.net:2052/movie/C383/121341/21631.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cine Holliudy 2: A Chibata Sideral (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jqIsvzb2uzpJ8LmLnntR2jBntNS.jpg" group-title="Filmes | Nacionais",Cine Holliudy 2: A Chibata Sideral (2019)
+http://dns.maxptv.net:2052/movie/C383/121341/21632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pesadelo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRUvXumHXtKqJuc9uPXOkYjIAML.jpg" group-title="Filmes | Terror",Cine Pesadelo
+http://dns.maxptv.net:2052/movie/C383/121341/4968.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Click (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ZPbBXyjkgIbOasAIduF19EYYGZ.jpg" group-title="Filmes | Comedia",Click (2006)
+http://dns.maxptv.net:2052/movie/C383/121341/21735.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clube da Luta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohXr0v9U0TfFu9IXbSDm5zoGV3R.jpg" group-title="Filmes | Drama",Clube da Luta
+http://dns.maxptv.net:2052/movie/C383/121341/21828.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clube dos Cinco" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iV7F7cOzNnibAfnJ0bRGVxRkp6s.jpg" group-title="Filmes | Comedia",Clube dos Cinco
+http://dns.maxptv.net:2052/movie/C383/121341/21774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Code 8: Renegados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yOj7bYYyMMqiqgh7Bu7qxLwtbsz.jpg" group-title="Filmes | Acao",Code 8: Renegados
+http://dns.maxptv.net:2052/movie/C383/121341/3916.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coffee & Kareem" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFzPMOJrjZfwCxllm3IIEKN7ceF.jpg" group-title="Filmes | Comedia",Coffee & Kareem
+http://dns.maxptv.net:2052/movie/C383/121341/13107.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Com Amor, Simon (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwGowTpFQTgCcByfoP2xzXVReGl.jpg" group-title="Filmes | Romance",Com Amor, Simon (2018)
+http://dns.maxptv.net:2052/movie/C383/121341/21854.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Com Deus no Caminho (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rC3hlLHzQQKVNqAQ1fCigQeszCt.jpg" group-title="Filmes | Religiao ",Com Deus no Caminho (2018)
+http://dns.maxptv.net:2052/movie/C383/121341/3727.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Com Quem Sera?" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bfWQzMsa9iBD5s8VKDwvDFdTSa3.jpg" group-title="Filmes | Romance",Com Quem Sera?
+http://dns.maxptv.net:2052/movie/C383/121341/3244.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como Construir uma Garota" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svEKCyQmJs3ZRu4YC6rQl248AAs.jpg" group-title="Filmes | Comedia",Como Construir uma Garota
+http://dns.maxptv.net:2052/movie/C383/121341/21691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como Perder um Homem em 10 Dias" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q94nQEHzjkWd1fkTHya8mwvggVw.jpg" group-title="Filmes | Romance",Como Perder um Homem em 10 Dias
+http://dns.maxptv.net:2052/movie/C383/121341/3641.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como Treinar o seu Dragao 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/brmRmSagvnQVgIw1lBF4CaKpaoU.jpg" group-title="Filmes | Animacao",Como Treinar o seu Dragao 2
+http://dns.maxptv.net:2052/movie/C383/121341/21207.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como Treinar o seu Dragao 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uqxMHM7YLKk6yni4bOE0D6DVz8.jpg" group-title="Filmes | Animacao",Como Treinar o seu Dragao 3
+http://dns.maxptv.net:2052/movie/C383/121341/3080.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Con Air, A Rota da Fuga" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEwFP7Mf9wR8TEUeGdZV49PHYcA.jpg" group-title="Filmes | Acao",Con Air, A Rota da Fuga
+http://dns.maxptv.net:2052/movie/C383/121341/6239.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Confinamento" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQFj3thRxlA8LE7QlaaJ1utjh5K.jpg" group-title="Filmes | Comedia",Confinamento
+http://dns.maxptv.net:2052/movie/C383/121341/32443.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Constantine" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yGMnu5JddJXl87S9wmDGPAKF75W.jpg" group-title="Filmes | Terror",Constantine
+http://dns.maxptv.net:2052/movie/C383/121341/3706.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Contagem Regressiva (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uN1A34fHZs7n1wBry45uRcHuVQs.jpg" group-title="Filmes | Drama",Contagem Regressiva (2013)
+http://dns.maxptv.net:2052/movie/C383/121341/21815.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Contra Ataque" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRUhfGW4WSZ6XpJcMz6CwLgMAkS.jpg" group-title="Filmes | Acao",Contra Ataque
+http://dns.maxptv.net:2052/movie/C383/121341/17462.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Contagio - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eoCmqAEr8lazsylyzQKm5neyvx.jpg" group-title="Filmes | Suspense ",Contagio - 2011
+http://dns.maxptv.net:2052/movie/C383/121341/8796.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Convencao das Bruxas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/orrJiQs30G6zSkT8is4QOAtRpFM.jpg" group-title="Filmes | Fantasia",Convencao das Bruxas (2020)
+http://dns.maxptv.net:2052/movie/C383/121341/21690.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Convidados sem honra (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbtHaLVyUaRIZ9RS91CK4EIyzWh.jpg" group-title="Filmes | Comedia",Convidados sem honra (2017)
+http://dns.maxptv.net:2052/movie/C383/121341/28948.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coqueteis e Adolescentes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qeiWBPdW1aiQj85yBTRCyP01LWe.jpg" group-title="Filmes | Drama",Coqueteis e Adolescentes
+http://dns.maxptv.net:2052/movie/C383/121341/21829.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coracao de Dragao: Vinganca" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGsD7kCegBuI9MPCQvFsOUe26V2.jpg" group-title="Filmes | Aventura",Coracao de Dragao: Vinganca
+http://dns.maxptv.net:2052/movie/C383/121341/13153.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coracao Valente (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJnOWmnsJ0BCEpX9Xf5Ti9UJqXV.jpg" group-title="Filmes | Acao",Coracao Valente (1995)
+http://dns.maxptv.net:2052/movie/C383/121341/22243.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cores da Justica" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8O76234aBjceZCEOWmpnj7hnhtv.jpg" group-title="Filmes | Acao",Cores da Justica
+http://dns.maxptv.net:2052/movie/C383/121341/6631.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coringa (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLxgVxFWvb9hhUyCDDXxRPPnFck.jpg" group-title="Filmes | Drama",Coringa (2019)
+http://dns.maxptv.net:2052/movie/C383/121341/25656.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corpo Fechado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kXkV3RKsSf49wbSnUerKZFMQORB.jpg" group-title="Filmes | Acao",Corpo Fechado
+http://dns.maxptv.net:2052/movie/C383/121341/3479.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corpus Christi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/94l5tagsFM2x8SFa0ANtUrcB5Il.jpg" group-title="Filmes | Drama",Corpus Christi
+http://dns.maxptv.net:2052/movie/C383/121341/21822.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corra!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A0RoSZh8PEYJgDMgM2EV7Ycz3dR.jpg" group-title="Filmes | Suspense ",Corra!
+http://dns.maxptv.net:2052/movie/C383/121341/3707.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cortina de Fogo 2 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vf3GHorBRTCLie2umkAtVkPKlkJ.jpg" group-title="Filmes | Policial",Cortina de Fogo 2 (2019)
+http://dns.maxptv.net:2052/movie/C383/121341/19771.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Covil de Ladroes - 2018" tvg-logo="http://srv.maxptv.net:8080/images/81dd9e11bf85f8b8f276442cbd804338.jpg" group-title="Filmes | Acao",Covil de Ladroes - 2018
+http://dns.maxptv.net:2052/movie/C383/121341/3246.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cowboys e Aliens" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/L8UadIfdvMhkYR0rHf3HtikjSn.jpg" group-title="Filmes | Faroeste",Cowboys e Aliens
+http://dns.maxptv.net:2052/movie/C383/121341/6504.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Creed II (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qPQFWrLoQYyGxmeBgmpX901Q0mF.jpg" group-title="Filmes | Drama",Creed II (2018)
+http://dns.maxptv.net:2052/movie/C383/121341/3199.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Creed: Nascido para Lutar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53VTzu0nhbNYmIbqdDbFqobsLHt.jpg" group-title="Filmes | Drama",Creed: Nascido para Lutar
+http://dns.maxptv.net:2052/movie/C383/121341/3200.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crepusculo (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgxHeCZE3H9n5jQFumQPs9HBnTV.jpg" group-title="Filmes | Fantasia",Crepusculo (2008)
+http://dns.maxptv.net:2052/movie/C383/121341/22222.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crepusculo dos Deuses (1950)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pXjH75wDFRb38e2FmBw62EJDhdL.jpg" group-title="Filmes | Drama",Crepusculo dos Deuses (1950)
+http://dns.maxptv.net:2052/movie/C383/121341/32782.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crime e Desejo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h41DZREsYkm9Nq0HZ9YMP2pWlJg.jpg" group-title="Filmes | Suspense ",Crime e Desejo (2019)
+http://dns.maxptv.net:2052/movie/C383/121341/32082.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crimes Obscuros" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQ6L3pV1yKWqYPGv5WZkJE18s8.jpg" group-title="Filmes | Suspense ",Crimes Obscuros
+http://dns.maxptv.net:2052/movie/C383/121341/3247.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cruella" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljPHd7WiPVKmuXi1hgQUpZQslbC.jpg" group-title="Filmes | Comedia",Cruella
+http://dns.maxptv.net:2052/movie/C383/121341/31641.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cro em Familia (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i3hfC09ov7ozxAwbof8IwcahYUi.jpg" group-title="Filmes | Nacionais",Cro em Familia (2018)
+http://dns.maxptv.net:2052/movie/C383/121341/8821.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cronicas de Natal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKnSdQ0hjc9e6LG1e9r5EvjLfwy.jpg" group-title="Filmes | Comedia",Cronicas de Natal
+http://dns.maxptv.net:2052/movie/C383/121341/8822.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cronicas de Natal: Parte Dois (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/axIreLP9hr0ENvr5kR1sncxuYue.jpg" group-title="Filmes | Aventura",Cronicas de Natal: Parte Dois (2020)
+http://dns.maxptv.net:2052/movie/C383/121341/21908.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Circulo de Fogo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uFaWzdxzITZxHKaKwyG26QfzHiG.jpg" group-title="Filmes | Ficcao Cientifica",Circulo de Fogo
+http://dns.maxptv.net:2052/movie/C383/121341/21736.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Circulo de Fogo: A Revolta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qIWM0wgkmUlrEnYYkZ73EdNL0aX.jpg" group-title="Filmes | Ficcao Cientifica",Circulo de Fogo: A Revolta
+http://dns.maxptv.net:2052/movie/C383/121341/21737.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Copias - De Volta a Vida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lojBdZXcKyzQBdOHPIWQXTrFJXN.jpg" group-title="Filmes | Ficcao Cientifica",Copias - De Volta a Vida
+http://dns.maxptv.net:2052/movie/C383/121341/3249.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DC Super Hero Girls: Lendas de Atlantida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qmo3knJnKzgw50Zt4CIQB4Umdst.jpg" group-title="Filmes | Animacao",DC Super Hero Girls: Lendas de Atlantida
+http://dns.maxptv.net:2052/movie/C383/121341/32785.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DC SuperHero Girls: Heroinas do Ano" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ib0m12RO1X3AmdfWR8fK2XpJPJH.jpg" group-title="Filmes | Animacao",DC SuperHero Girls: Heroinas do Ano
+http://dns.maxptv.net:2052/movie/C383/121341/32783.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DC SuperHero Girls: Jogos Intergalaticos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BkNrjD9fAlp0lo9Kw8Ky4qcnKq.jpg" group-title="Filmes | Animacao",DC SuperHero Girls: Jogos Intergalaticos
+http://dns.maxptv.net:2052/movie/C383/121341/32784.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Carona para o Amor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zOirChLT8umax8p7A4zfqVYLn5s.jpg" group-title="Filmes | Romance",De Carona para o Amor
+http://dns.maxptv.net:2052/movie/C383/121341/8825.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Volta ao Planeta dos Macacos (1970)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eE7Z7587KU7xHzD5MnOcjgLI4Hr.jpg" group-title="Filmes | Ficcao Cientifica",De Volta ao Planeta dos Macacos (1970)
+http://dns.maxptv.net:2052/movie/C383/121341/3353.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Volta para o Futuro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i996T0lI1fGtFEowiH3V6eZthL0.jpg" group-title="Filmes | Ficcao Cientifica",De Volta para o Futuro
+http://dns.maxptv.net:2052/movie/C383/121341/10969.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Volta para o Futuro 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dAAnK6EUBDUpM9H5EBfYV3GmtC1.jpg" group-title="Filmes | Ficcao Cientifica",De Volta para o Futuro 2
+http://dns.maxptv.net:2052/movie/C383/121341/10970.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Volta para o Futuro 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjSqXqdpaa6ECsiIQxW44ye0qAc.jpg" group-title="Filmes | Ficcao Cientifica",De Volta para o Futuro 3
+http://dns.maxptv.net:2052/movie/C383/121341/10971.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deadpool 2" tvg-logo="http://srv.maxptv.net:8080/images/872697796c08157e20c4dd07847d42e7.jpg" group-title="Filmes | Acao",Deadpool 2
+http://dns.maxptv.net:2052/movie/C383/121341/4860.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deadwood - O Filme (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCQ13cqd02dop7Chkov0fPl4r3t.jpg" group-title="Filmes | Faroeste",Deadwood - O Filme (2019)
+http://dns.maxptv.net:2052/movie/C383/121341/4734.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Debi & Loide: Dois Idiotas em Apuros" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1MbzwxjT5C32oc7U5AmVBTTMv7C.jpg" group-title="Filmes | Comedia",Debi & Loide: Dois Idiotas em Apuros
+http://dns.maxptv.net:2052/movie/C383/121341/5328.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deixe-o Partir" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjeMm5GOymDlnruhf7s1YpvMI0h.jpg" group-title="Filmes | Drama",Deixe-o Partir
+http://dns.maxptv.net:2052/movie/C383/121341/33308.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Delorean - Do Motor ao Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jOjyC0eUa0PvyQYkigSjrjQwj2g.jpg" group-title="Filmes | Suspense ",Delorean - Do Motor ao Crime
+http://dns.maxptv.net:2052/movie/C383/121341/6632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dennis, O Pimentinha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A9zJyQvF8yXC5HPTMB24hMeQFq1.jpg" group-title="Filmes | Comedia",Dennis, O Pimentinha
+http://dns.maxptv.net:2052/movie/C383/121341/8827.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dennis, o Pimentinha Ataca Novamente" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9AnwwTia1JiQH6lItJ3dSz9onvI.jpg" group-title="Filmes | Comedia",Dennis, o Pimentinha Ataca Novamente
+http://dns.maxptv.net:2052/movie/C383/121341/8826.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Depois da Escuridao " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5pZrA9q4RM9KpLMen4WiM9MmKG.jpg" group-title="Filmes | Drama",Depois da Escuridao 
+http://dns.maxptv.net:2052/movie/C383/121341/4716.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Depois da Terra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dF9HIeksSIrj9IFlsGXONIb8Ls8.jpg" group-title="Filmes | Ficcao Cientifica",Depois da Terra
+http://dns.maxptv.net:2052/movie/C383/121341/3623.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Depois do Casamento (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/phGuz7jLh8qUNoBw2QsFIVeuRRk.jpg" group-title="Filmes | Drama",Depois do Casamento (2019)
+http://dns.maxptv.net:2052/movie/C383/121341/4729.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desejo de Matar (1974)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nU7rb6N8SnAQzU2dYvcg6nuLdX1.jpg" group-title="Filmes | Acao",Desejo de Matar (1974)
+http://dns.maxptv.net:2052/movie/C383/121341/32445.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desejo de Matar (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yo2FRPhsifn044quPVyMtYlnoyZ.jpg" group-title="Filmes | Acao",Desejo de Matar (2018)
+http://dns.maxptv.net:2052/movie/C383/121341/28735.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desejo de Matar 2 (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1JDPsiZ8NY9ArPfCQzmzDDLL1NC.jpg" group-title="Filmes | Acao",Desejo de Matar 2 (1982)
+http://dns.maxptv.net:2052/movie/C383/121341/32446.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desejo de Matar 3 (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/grsGbmHYRNwPQrG6Z31fQEhp5Ex.jpg" group-title="Filmes | Acao",Desejo de Matar 3 (1985)
+http://dns.maxptv.net:2052/movie/C383/121341/32447.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desejo de Matar 4: Operacao Crackdown (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7QyoK8bLCGbg8ze0Loh0M3vpY6k.jpg" group-title="Filmes | Acao",Desejo de Matar 4: Operacao Crackdown (1987)
+http://dns.maxptv.net:2052/movie/C383/121341/32448.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desejo de Matar 5: A Face da Morte (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GiPeCi1X6DxlWiMHfgpmiPPje2.jpg" group-title="Filmes | Acao",Desejo de Matar 5: A Face da Morte (1994)
+http://dns.maxptv.net:2052/movie/C383/121341/32449.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desfile de Natal (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wYJYdbeapc6uZf6po0x7qAh3AaW.jpg" group-title="Filmes | Romance",Desfile de Natal (2018)
+http://dns.maxptv.net:2052/movie/C383/121341/23644.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desperados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p0aJ42yUp5pS4MdPKP69VRZ2Gkp.jpg" group-title="Filmes | Comedia",Desperados
+http://dns.maxptv.net:2052/movie/C383/121341/21801.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Destruicao Final: O Ultimo Refugio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJecw4UYpvTgKE2zS9le44Nwuag.jpg" group-title="Filmes | Acao",Destruicao Final: O Ultimo Refugio
+http://dns.maxptv.net:2052/movie/C383/121341/21886.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deus Nao Esta Morto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f9whWUktQSg3kdM7xg6HJ6PnoJR.jpg" group-title="Filmes | Religiao ",Deus Nao Esta Morto
+http://dns.maxptv.net:2052/movie/C383/121341/6540.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deus Nao Esta Morto 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kqGmmXRpCsseGl6DA5irIkDNacg.jpg" group-title="Filmes | Religiao ",Deus Nao Esta Morto 2
+http://dns.maxptv.net:2052/movie/C383/121341/6541.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deus Nao Esta Morto: Uma Luz na Escuridao" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rMWOo7Y0ntOkNuMk2svZxkoRb29.jpg" group-title="Filmes | Religiao ",Deus Nao Esta Morto: Uma Luz na Escuridao
+http://dns.maxptv.net:2052/movie/C383/121341/6542.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dezessete (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhKF93ctN4JGI29W3J55PpInoPv.jpg" group-title="Filmes | Drama",Dezessete (2019)
+http://dns.maxptv.net:2052/movie/C383/121341/24984.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dia do Sim" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wiluKb3NgB6QmuN8hWLKIUxBxxU.jpg" group-title="Filmes | Comedia",Dia do Sim
+http://dns.maxptv.net:2052/movie/C383/121341/23270.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dias Sem Fim (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/spMoofhPZfSOMJpbsDfltvWkU9p.jpg" group-title="Filmes | Drama",Dias Sem Fim (2020)
+http://dns.maxptv.net:2052/movie/C383/121341/13097.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Din e o Dragao Genial" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNhGNWn4Z9S77cOuYn2ZWfC9E7b.jpg" group-title="Filmes | Animacao",Din e o Dragao Genial
+http://dns.maxptv.net:2052/movie/C383/121341/32434.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dinossauro (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9aYipPdXLJO2d7Aoa9gnLXHlQfz.jpg" group-title="Filmes | Disney +",Dinossauro (2000)
+http://dns.maxptv.net:2052/movie/C383/121341/11744.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dirty Dancing " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cc3Db4m2BesOu14skAhAfnMmkNf.jpg" group-title="Filmes | Drama",Dirty Dancing 
+http://dns.maxptv.net:2052/movie/C383/121341/5013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Divertida Mente" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pk3RoPfLypeO6RsIIKwhZlGNXM4.jpg" group-title="Filmes | Disney +",Divertida Mente
+http://dns.maxptv.net:2052/movie/C383/121341/22182.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Divinos Segredos (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6VCSmXSmdQNwulyWZK0IyYimK6a.jpg" group-title="Filmes | Comedia",Divinos Segredos (2002)
+http://dns.maxptv.net:2052/movie/C383/121341/32786.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diario Proibido" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3cJs5LE54c9efaKAwmIQmmn53eF.jpg" group-title="Filmes | Drama",Diario Proibido
+http://dns.maxptv.net:2052/movie/C383/121341/5014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Django (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYsDq0fTMC1XuEg63NOXfxzHBJY.jpg" group-title="Filmes | Faroeste",Django (1966)
+http://dns.maxptv.net:2052/movie/C383/121341/11815.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Django Livre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ahmF7fsd4JdWmlSJdtm39eFcmhi.jpg" group-title="Filmes | Faroeste",Django Livre
+http://dns.maxptv.net:2052/movie/C383/121341/4735.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Do Fundo do Mar 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iK3Nqzqbp0HL7Mbnm3hKOsldxjn.jpg" group-title="Filmes | Terror",Do Fundo do Mar 3
+http://dns.maxptv.net:2052/movie/C383/121341/20299.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Do Inferno (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ujEGfZe5OBjK3u2B8HssunjTm4T.jpg" group-title="Filmes | Terror",Do Inferno (2001)
+http://dns.maxptv.net:2052/movie/C383/121341/29056.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Do Jeito que Elas Querem" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1xR2g5r0z69ToAocEHQ7lLxMnCd.jpg" group-title="Filmes | Comedia",Do Jeito que Elas Querem
+http://dns.maxptv.net:2052/movie/C383/121341/8828.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Do Que as Mulheres Gostam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xj2uHWw6T90M2Ep8ZtTtVC0LcG0.jpg" group-title="Filmes | Comedia",Do Que as Mulheres Gostam
+http://dns.maxptv.net:2052/movie/C383/121341/21778.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doce Novembro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlPTWY3sRYCXNWDuzRzQ8GRvcxc.jpg" group-title="Filmes | Romance",Doce Novembro
+http://dns.maxptv.net:2052/movie/C383/121341/11809.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dois Irmaos: Uma Jornada Fantastica" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jsi2UM64Mhr6NmY1LKeeCuZOaCo.jpg" group-title="Filmes | Disney +",Dois Irmaos: Uma Jornada Fantastica
+http://dns.maxptv.net:2052/movie/C383/121341/12787.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dois Papas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqej6JbM15wolmXe3KqnZEtak1O.jpg" group-title="Filmes | Drama",Dois Papas
+http://dns.maxptv.net:2052/movie/C383/121341/4751.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Donnybrook - Luta Pela Redencao" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jbw7jGT9PFLJQqyoxuXLqbhQmWQ.jpg" group-title="Filmes | Drama",Donnybrook - Luta Pela Redencao
+http://dns.maxptv.net:2052/movie/C383/121341/21830.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doom - Aniquilacao" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kD1WqQ0dYktu5xDTJ8IxCkCOUWt.jpg" group-title="Filmes | Acao",Doom - Aniquilacao
+http://dns.maxptv.net:2052/movie/C383/121341/13132.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dora e a Cidade Perdida " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zn6uvrCTymyl9dYkoU2XDODC8IC.jpg" group-title="Filmes | Aventura",Dora e a Cidade Perdida 
+http://dns.maxptv.net:2052/movie/C383/121341/3700.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doutor Estranho - 2016" tvg-logo="http://srv.maxptv.net:8080/images/d5ae58024347546b17c17b15ecabdc3f.jpg" group-title="Filmes | Coleção Universo Marvel",Doutor Estranho - 2016
+http://dns.maxptv.net:2052/movie/C383/121341/2297.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doutor Sono" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Sp02vj2faWSF72OqIM9E7HuSG9.jpg" group-title="Filmes | Terror",Doutor Sono
+http://dns.maxptv.net:2052/movie/C383/121341/5728.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super: Broly (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tuay76gZt7kOIb806hTzIktsQDT.jpg" group-title="Filmes | Animacao",Dragon Ball Super: Broly (L)
+http://dns.maxptv.net:2052/movie/C383/121341/22241.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragao Vermelho " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8nc3uYPiGzZTPozTqk0COHk2ofq.jpg" group-title="Filmes | Suspense ",Dragao Vermelho 
+http://dns.maxptv.net:2052/movie/C383/121341/3921.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragoes: Equipe de Resgate: Em Busca do Dragao Dourado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/afecdT4uWB9sjo6MnnnjOQmRljq.jpg" group-title="Filmes | Animacao",Dragoes: Equipe de Resgate: Em Busca do Dragao Dourado
+http://dns.maxptv.net:2052/movie/C383/121341/13154.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Duas Vidas (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5N2lniI07omhti7Oxa3THrCrPhs.jpg" group-title="Filmes | Fantasia",Duas Vidas (2000)
+http://dns.maxptv.net:2052/movie/C383/121341/32787.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Duck Tales, O Filme: O Tesouro da Lampada Perdida (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wsLP8ULSWhauYHynFn3n8zU03Io.jpg" group-title="Filmes | Disney +",Duck Tales, O Filme: O Tesouro da Lampada Perdida (1990)
+http://dns.maxptv.net:2052/movie/C383/121341/22428.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dumbo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c8Krn1Fb8h3DsCgGMxmS1zmMN1n.jpg" group-title="Filmes | Disney +",Dumbo
+http://dns.maxptv.net:2052/movie/C383/121341/3081.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dumbo - 2019" tvg-logo="http://srv.maxptv.net:8080/images/b23d4f1d00cc4b66ae41416e86821633.jpg" group-title="Filmes | Acao",Dumbo - 2019
+http://dns.maxptv.net:2052/movie/C383/121341/3251.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dumplin" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJAB1HrFUuOf2VkWPaZ4N2DACCo.jpg" group-title="Filmes | Comedia",Dumplin
+http://dns.maxptv.net:2052/movie/C383/121341/28734.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dunkirk " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TbAQlEpRG2EQsjMNR76IYGNuki.jpg" group-title="Filmes | Guerra",Dunkirk 
+http://dns.maxptv.net:2052/movie/C383/121341/18950.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dupla Explosiva (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oogzn0EmTSkR2x3Khw7Muswwcpk.jpg" group-title="Filmes | Acao",Dupla Explosiva (2017)
+http://dns.maxptv.net:2052/movie/C383/121341/21701.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Duro de Matar (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rauTKnFle1sp4aXjtYgx4tCWNiK.jpg" group-title="Filmes | Acao",Duro de Matar (1988)
+http://dns.maxptv.net:2052/movie/C383/121341/6849.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Duro de Matar 2 (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5uiLFzjgeYhnpHmBlFg7s1YHwp.jpg" group-title="Filmes | Acao",Duro de Matar 2 (1990)
+http://dns.maxptv.net:2052/movie/C383/121341/6850.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Duro de Matar 3 (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9Gdu7UEMLDnobLTKybARFVOvDh.jpg" group-title="Filmes | Acao",Duro de Matar 3 (1995)
+http://dns.maxptv.net:2052/movie/C383/121341/6851.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Duro de Matar 4.0 (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjvKqLHjnUm2PxVHjhQ8FLbInbl.jpg" group-title="Filmes | Acao",Duro de Matar 4.0 (2007)
+http://dns.maxptv.net:2052/movie/C383/121341/6852.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Duro de Matar 5 (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2dTmzg6TNkVF3QfQ2THpIWzjb0l.jpg" group-title="Filmes | Acao",Duro de Matar 5 (2013)
+http://dns.maxptv.net:2052/movie/C383/121341/6853.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Divida de Honra " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6I5ONC2j3J8jZ0XMga1C3TusP1i.jpg" group-title="Filmes | Faroeste",Divida de Honra 
+http://dns.maxptv.net:2052/movie/C383/121341/6507.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eclipse Mortal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7V4WfCUWYzMcBby8e6jAwVxw2Ai.jpg" group-title="Filmes | Suspense ",Eclipse Mortal
+http://dns.maxptv.net:2052/movie/C383/121341/3482.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ela Danca, Eu Danco" tvg-logo="http://srv.maxptv.net:8080/images/8f0da7f556bcd9d550daf7b0783da896.jpg" group-title="Filmes | Romance",Ela Danca, Eu Danco
+http://dns.maxptv.net:2052/movie/C383/121341/3946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ela Danca, Eu Danco 2 " tvg-logo="http://srv.maxptv.net:8080/images/1b90faec6bb6727475eb316f74af5cbf.jpg" group-title="Filmes | Romance",Ela Danca, Eu Danco 2 
+http://dns.maxptv.net:2052/movie/C383/121341/3947.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ela Danca, Eu Danco 3 " tvg-logo="http://srv.maxptv.net:8080/images/590ff004e88f5fe26196b48e2c56216f.jpg" group-title="Filmes | Romance",Ela Danca, Eu Danco 3 
+http://dns.maxptv.net:2052/movie/C383/121341/3948.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ela Danca, Eu Danco 4" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Pf96TQ6reAMiYDyY9I8WJdn0X6.jpg" group-title="Filmes | Romance",Ela Danca, Eu Danco 4
+http://dns.maxptv.net:2052/movie/C383/121341/3949.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ela Danca, Eu Danco 5: Tudo ou Nada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uYV6zHPgV20b6kPv7VbQQy4WjV4.jpg" group-title="Filmes | Romance",Ela Danca, Eu Danco 5: Tudo ou Nada
+http://dns.maxptv.net:2052/movie/C383/121341/3950.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ela Danca, Eu Danco 6 " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eNzLlzZCrqK4fXmxTojTAk1jqnE.jpg" group-title="Filmes | Drama",Ela Danca, Eu Danco 6 
+http://dns.maxptv.net:2052/movie/C383/121341/13144.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ela Disse Ele Disse" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wrpjGA7naIPnGPoIJ2la6gbAlT.jpg" group-title="Filmes | Nacionais",Ela Disse Ele Disse
+http://dns.maxptv.net:2052/movie/C383/121341/4699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eli " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1XDj2O9En5BlOlOiLn7LfSjWNYh.jpg" group-title="Filmes | Terror",Eli 
+http://dns.maxptv.net:2052/movie/C383/121341/1568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Busca da Justica " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gymHf0mUOxuCCGTFJDXH4eeCFFG.jpg" group-title="Filmes | Acao",Em Busca da Justica 
+http://dns.maxptv.net:2052/movie/C383/121341/6508.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em busca de 'Ohana" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcQY8T1owyMMRmp9dZiUTUQVxKW.jpg" group-title="Filmes | Acao",Em busca de 'Ohana
+http://dns.maxptv.net:2052/movie/C383/121341/21901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Guerra com o Vovo (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0YbQixvFBSmZfk0EjRWDE6wWgq.jpg" group-title="Filmes | Comedia",Em Guerra com o Vovo (L)
+http://dns.maxptv.net:2052/movie/C383/121341/33321.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Nome do Pai (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ctBYNytD8qwxHyKYHDGsrYvCXu2.jpg" group-title="Filmes | Drama",Em Nome do Pai (1993)
+http://dns.maxptv.net:2052/movie/C383/121341/31174.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Emma - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzVlyZRQQnYe0rDuLrHSnVtDD3j.jpg" group-title="Filmes | Comedia",Emma - 2020
+http://dns.maxptv.net:2052/movie/C383/121341/11798.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Endiabrado (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQc3H6J25f8mYwqbyzQI1psup8q.jpg" group-title="Filmes | Comedia",Endiabrado (2000)
+http://dns.maxptv.net:2052/movie/C383/121341/23334.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Enola Holmes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/riYInlsq2kf1AWoGm80JQW5dLKp.jpg" group-title="Filmes | Drama",Enola Holmes
+http://dns.maxptv.net:2052/movie/C383/121341/19773.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Enquanto Estivermos Juntos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/FyxWixSh2EHN44SbbC640NcaUF.jpg" group-title="Filmes | Drama",Enquanto Estivermos Juntos
+http://dns.maxptv.net:2052/movie/C383/121341/21780.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Enrolados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/FyxWixSh2EHN44SbbC640NcaUF.jpg" group-title="Filmes | Animacao",Enrolados
+http://dns.maxptv.net:2052/movie/C383/121341/13139.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entrando numa Fria (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIjGzZsTt5D5bfVXiUpF6uY7G9k.jpg" group-title="Filmes | Comedia",Entrando numa Fria (2000)
+http://dns.maxptv.net:2052/movie/C383/121341/3483.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entrando Numa Fria Maior Ainda (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0XRKzf4zSDOs439X0wdwQ77oDC.jpg" group-title="Filmes | Comedia",Entrando Numa Fria Maior Ainda (2004)
+http://dns.maxptv.net:2052/movie/C383/121341/22233.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entrando Numa Fria Maior Ainda com a Familia (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFcqogEn6GKZTVBW6SRaF07URoy.jpg" group-title="Filmes | Comedia",Entrando Numa Fria Maior Ainda com a Familia (2010)
+http://dns.maxptv.net:2052/movie/C383/121341/22234.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entre Amores e Cores" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFJp0AipzYQkVdbzzOErTNzJKCG.jpg" group-title="Filmes | Romance",Entre Amores e Cores
+http://dns.maxptv.net:2052/movie/C383/121341/7187.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entre Facas e Segredos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y9bPnWN7M0SmDvh4Nns0R4Jc2Jn.jpg" group-title="Filmes | Comedia",Entre Facas e Segredos
+http://dns.maxptv.net:2052/movie/C383/121341/7923.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entre Mundos " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1z1OVCvzdqkgeYZvZCqhznUzYf2.jpg" group-title="Filmes | Acao",Entre Mundos 
+http://dns.maxptv.net:2052/movie/C383/121341/3642.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entre Nesta Danca: Hip Hop no Pedaco (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/es9zAg9tPYwFsAhdY71SHUQZu6j.jpg" group-title="Filmes | Drama",Entre Nesta Danca: Hip Hop no Pedaco (2004)
+http://dns.maxptv.net:2052/movie/C383/121341/32171.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entre Realidades" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/avg1yyBcliKER3xV80A1qbv3KPC.jpg" group-title="Filmes | Drama",Entre Realidades
+http://dns.maxptv.net:2052/movie/C383/121341/6639.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entrevista com Deus" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hIE9f6mZojSGAPZIsGx6Lca3RQ3.jpg" group-title="Filmes | Drama",Entrevista com Deus
+http://dns.maxptv.net:2052/movie/C383/121341/4863.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entrevista com o Vampiro " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePXS6scnOOcWKX0ARLl0BngDPvI.jpg" group-title="Filmes | Terror",Entrevista com o Vampiro 
+http://dns.maxptv.net:2052/movie/C383/121341/6478.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entao Eu Te Conheci" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/73atVJhv6FkGAdgicw1Jf0Hf9Tf.jpg" group-title="Filmes | Comedia",Entao Eu Te Conheci
+http://dns.maxptv.net:2052/movie/C383/121341/8830.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Equipe Assassina" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/73atVJhv6FkGAdgicw1Jf0Hf9Tf.jpg" group-title="Filmes | Acao",Equipe Assassina
+http://dns.maxptv.net:2052/movie/C383/121341/13145.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Era Uma Vez em  Hollywood" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/foEOVg4HQl2VzKzTh27CAHmXyg.jpg" group-title="Filmes | Drama",Era Uma Vez em  Hollywood
+http://dns.maxptv.net:2052/movie/C383/121341/3709.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Era uma Vez no Oeste" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ijnf9ffr1KNAfXMoO8r1A0fpNM.jpg" group-title="Filmes | Faroeste",Era uma Vez no Oeste
+http://dns.maxptv.net:2052/movie/C383/121341/3466.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Era Uma Vez Um Sonho" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kfmPs5Ar9OgJV43PscJLsvCDwKX.jpg" group-title="Filmes | Drama",Era Uma Vez Um Sonho
+http://dns.maxptv.net:2052/movie/C383/121341/24989.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Era uma Vez: Anastasia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Fb674EYB3PqrcSKLC1e8e9Oulm.jpg" group-title="Filmes | Aventura",Era uma Vez: Anastasia
+http://dns.maxptv.net:2052/movie/C383/121341/8797.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espada da Vinganca: Ate a Ultima Linha " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2rpMRcKjNPYhCDtRu5VSskvVgI.jpg" group-title="Filmes | Fantasia",Espada da Vinganca: Ate a Ultima Linha 
+http://dns.maxptv.net:2052/movie/C383/121341/13188.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Especial de Natal Porta dos Fundos: A Primeira Tentacao de Cristo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/znAUgmoJKXDrCzkju51zyhtTZeN.jpg" group-title="Filmes | Nacionais",Especial de Natal Porta dos Fundos: A Primeira Tentacao de Cristo
+http://dns.maxptv.net:2052/movie/C383/121341/3717.mp4
 #EXTINF:-1 tvg-id="globonews.br" tvg-name="GloboNews HD" tvg-logo="https://painelsbo.painel.life/logosiptv/noticias/globonews.png" group-title="Canais :: NOTÍCIAS ",GloboNews HD
 http://dns.maxptv.net:2052/C383/121341/143
 #EXTINF:-1 tvg-id="globonews.br" tvg-name="GloboNews SD" tvg-logo="https://painelsbo.painel.life/logosiptv/noticias/globonews.png" group-title="Canais :: NOTÍCIAS ",GloboNews SD
