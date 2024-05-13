@@ -1,3 +1,11 @@
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="A GRANDE CONQUISTA SINAL 1" tvg-logo="https://painelsbo.painel.life/logosiptv/novosespn/conquista.png" group-title="Canais :: Reality - A Grande Conquista",A GRANDE CONQUISTA SINAL 1
+http://dns.maxptv.net:2052/C383/121341/139986
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="A GRANDE CONQUISTA SINAL 2" tvg-logo="https://painelsbo.painel.life/logosiptv/novosespn/conquista.png" group-title="Canais :: Reality - A Grande Conquista",A GRANDE CONQUISTA SINAL 2
+http://dns.maxptv.net:2052/C383/121341/139987
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="A GRANDE CONQUISTA SINAL 3" tvg-logo="https://painelsbo.painel.life/logosiptv/novosespn/conquista.png" group-title="Canais :: Reality - A Grande Conquista",A GRANDE CONQUISTA SINAL 3
+http://dns.maxptv.net:2052/C383/121341/139988
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="A GRANDE CONQUISTA SINAL 4" tvg-logo="https://painelsbo.painel.life/logosiptv/novosespn/conquista.png" group-title="Canais :: Reality - A Grande Conquista",A GRANDE CONQUISTA SINAL 4
+http://dns.maxptv.net:2052/C383/121341/139989
 #EXTINF:-1 tvg-id="globonews.br" tvg-name="GloboNews HD" tvg-logo="https://painelsbo.painel.life/logosiptv/noticias/globonews.png" group-title="Canais :: NOTÍCIAS ",GloboNews HD
 http://dns.maxptv.net:2052/C383/121341/143
 #EXTINF:-1 tvg-id="globonews.br" tvg-name="GloboNews SD" tvg-logo="https://painelsbo.painel.life/logosiptv/noticias/globonews.png" group-title="Canais :: NOTÍCIAS ",GloboNews SD
