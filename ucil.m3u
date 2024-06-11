@@ -13,7 +13,7 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2816&extension=
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4jVKTMGIpZEym4yXF3mRxtYzLuDvvxOCj8Q&usqp=CAU" group-title="SALURAN EURO2024",SALURAN 1 EURO2024
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4jVKTMGIpZEym4yXF3mRxtYzLuDvvxOCj8Q&usqp=CAU" group-title="SALURAN EURO2024",SALURAN 2 EURO2024
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2818&extension=ts&play_token=NetqiLLyMA&sn2=
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -21,7 +21,7 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2818&extension=
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4jVKTMGIpZEym4yXF3mRxtYzLuDvvxOCj8Q&usqp=CAU" group-title="SALURAN EURO2024",SALURAN 1 EURO2024
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4jVKTMGIpZEym4yXF3mRxtYzLuDvvxOCj8Q&usqp=CAU" group-title="SALURAN EURO2024",SALURAN 3 EURO2024
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2820&extension=ts&play_token=fSU4CBEl5o&sn2=
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -29,7 +29,7 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2820&extension=
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4jVKTMGIpZEym4yXF3mRxtYzLuDvvxOCj8Q&usqp=CAU" group-title="SALURAN EURO2024",SALURAN 1 EURO2024
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4jVKTMGIpZEym4yXF3mRxtYzLuDvvxOCj8Q&usqp=CAU" group-title="SALURAN EURO2024",SALURAN 4 EURO2024
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/154.ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -37,7 +37,7 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/154.ts
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4jVKTMGIpZEym4yXF3mRxtYzLuDvvxOCj8Q&usqp=CAU" group-title="SALURAN EURO2024",SALURAN 2 EURO2024
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4jVKTMGIpZEym4yXF3mRxtYzLuDvvxOCj8Q&usqp=CAU" group-title="SALURAN EURO2024",SALURAN 5 EURO2024
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/31314.ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -45,7 +45,7 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/31314.ts
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4jVKTMGIpZEym4yXF3mRxtYzLuDvvxOCj8Q&usqp=CAU" group-title="SALURAN EURO2024",SALURAN 3 EURO2024
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4jVKTMGIpZEym4yXF3mRxtYzLuDvvxOCj8Q&usqp=CAU" group-title="SALURAN EURO2024",SALURAN 6 EURO2024
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/146.ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -53,7 +53,7 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/146.ts
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4jVKTMGIpZEym4yXF3mRxtYzLuDvvxOCj8Q&usqp=CAU" group-title="SALURAN EURO2024",SALURAN 4 EURO2024
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4jVKTMGIpZEym4yXF3mRxtYzLuDvvxOCj8Q&usqp=CAU" group-title="SALURAN EURO2024",SALURAN 7 EURO2024
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -61,7 +61,7 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4jVKTMGIpZEym4yXF3mRxtYzLuDvvxOCj8Q&usqp=CAU" group-title="SALURAN EURO2024",SALURAN 5 EURO2024
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4jVKTMGIpZEym4yXF3mRxtYzLuDvvxOCj8Q&usqp=CAU" group-title="SALURAN EURO2024",SALURAN 8 EURO2024
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
 
 
