@@ -89,7 +89,12 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/47638.m3u8
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/47636.m3u8
 
 
-
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://multidrm.core.verimatrixcloud.net/widevine?Authorization=eyJhbGciOiJFUzI1NiIsImtpZCI6ImMxODE5OTNjLWY4NTItNDQyZC05NjViLWEyYjczNThkYjk2OSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJ1cm46dmVyaW1hdHJpeDptdWx0aWRybSIsImV4cCI6MTcxODM0MDAwMCwiaWF0IjoxNzE4MzM5NDAwLCJpc3MiOiJ2aXNpb25wbHVzIiwianRpIjoiZjRjMDA1NDctNjQyZS00ZDIzLTgwMjAtMTg2M2M1YzkzNTExIiwicG9saWN5Ijp7IndpZGV2aW5lIjp7ImNhbl9wZXJzaXN0IjpmYWxzZSwiY2FuX3BsYXkiOnRydWUsImNhbl9yZW5ldyI6dHJ1ZSwibGljZW5zZV9kdXJhdGlvbl9zZWNvbmRzIjoxNDQwMH19LCJzdWIiOiIwMDAwMDAwMDAwMDAwMDAwMDExNCIsInN1YnNjcmliZXIiOiJhbm9ueW1vdXMiLCJ2ZXIiOjF9.7p_zDvqSMgWT2OvWguOHv-BAFG316Yw2tH4uwXdfjhphTxdyu3keRbRaqhIWY7ltVAUHEWtxn4GoZbgX929ojQ
+#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/Wj6qu6M.png" group-title="SALURAN LOKAL", ANTV
+https://melon-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+ 
 
 ```````` SALURAN LOKAL ````````
  
