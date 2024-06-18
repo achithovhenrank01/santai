@@ -89,15 +89,7 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/47638.m3u8
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/47636.m3u8
 
 
-#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJhbGciOiJFUzI1NiIsImtpZCI6ImMxODE5OTNjLWY4NTItNDQyZC05NjViLWEyYjczNThkYjk2OSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJ1cm46dmVyaW1hdHJpeDptdWx0aWRybSIsImV4cCI6MTcxODM0MDAwMCwiaWF0IjoxNzE4MzM5NDAwLCJpc3MiOiJ2aXNpb25wbHVzIiwianRpIjoiZjRjMDA1NDctNjQyZS00ZDIzLTgwMjAtMTg2M2M1YzkzNTExIiwicG9saWN5Ijp7IndpZGV2aW5lIjp7ImNhbl9wZXJzaXN0IjpmYWxzZSwiY2FuX3BsYXkiOnRydWUsImNhbl9yZW5ldyI6dHJ1ZSwibGljZW5zZV9kdXJhdGlvbl9zZWNvbmRzIjoxNDQwMH19LCJzdWIiOiIwMDAwMDAwMDAwMDAwMDAwMDExNCIsInN1YnNjcmliZXIiOiJhbm9ueW1vdXMiLCJ2ZXIiOjF9.7p_zDvqSMgWT2OvWguOHv-BAFG316Yw2tH4uwXdfjhphTxdyu3keRbRaqhIWY7ltVAUHEWtxn4GoZbgX929ojQ
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://multidrm.core.verimatrixcloud.net/widevine?Authorization=
-#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/Wj6qu6M.png" group-title="SALURAN LOKAL", ANTV
-https://melon-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
- 
+
 
 ```````` SALURAN LOKAL ````````
  
@@ -316,8 +308,6 @@ https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/inde
 #KODIPROP:inputstream.adaptive.license_key=98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a
 https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
 
-
-
 #EXTINF:-1 group-title="SALURAN SPORTS" tvg-id="truesports1.th" tvg-logo="https://i.imgur.com/UPuBbOx.png",True Sports 1
 #EXTVLCOPT:http-referrer=https://www.madoohd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
@@ -383,24 +373,12 @@ https://cors-proxy.elfsight.com/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/li
 #KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
 https://cors-proxy.elfsight.com/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
 SALURAN KIDS
  
  
- 
- 
+  
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -439,22 +417,10 @@ https://melon-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
 SALURAN KNOWLEDGE
  
  
- 
- 
- 
- 
- 
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/HjZ4X9X.png" group-title="SALURAN KNOWLEDGE",Animal Planet 
 https://kusnadipepenk.github.io/ntn/animal.m3u8
  
@@ -495,16 +461,8 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverychannel.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
  
  
- 
- 
- 
- 
- 
- 
- 
- 
+  
 ===SALURAN MOVIES===
- 
  
  
  
